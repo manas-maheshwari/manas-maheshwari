@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manas Maheshwari
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Docker and Kubernetes
-- 💞️ I’m looking for a Full Time Software Engineer role
+- 🌱 I’m currently learning about cloud architecture
+- 💞️ I’m working as a Full Time Software Engineer in the Fintech space
 - 📫 How to reach me emailmanas@icloud.com            
 
 <!---
