@@ -7,17 +7,16 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Updated to the latest version
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: manas-maheshwari
-          outputs: |
-            dist/github-snake.svg
+          outputs: dist/github-snake.svg
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/github-snake.svg
