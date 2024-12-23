@@ -4,7 +4,7 @@
 - 💞️ I’m working as a Full Time Software Engineer in the Fintech space
 - 📫 How to reach me emailmanas@icloud.com            
 
-![Snake animation](https://github.com/manas-maheshwari/manas-maheshwari/blob/output/github-snake.svg)
+![Snake animation](https://github.com/manas-maheshwari/manas-maheshwari/blob/output/github-snake-dark.svg)
 
 <!---
 manas-maheshwari/manas-maheshwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
