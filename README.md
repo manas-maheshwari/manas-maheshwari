@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manas Maheshwari
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning about cloud architecture
-- 💞️ I’m working as a Full Time Software Engineer in the Fintech space
-- 📫 How to reach me emailmanas@icloud.com            
+- 👀 I’m interested in Distributed Systems
+- 🌱 I’m currently learning about Agent Orchestration
+- 💞️ I’m working as a Full Time Software Engineer at Apex Fintech
+- 📫 How to reach me manas07maheshwari@gmail.com         
 
 ![Snake animation](https://github.com/manas-maheshwari/manas-maheshwari/blob/output/github-snake-dark.svg)
 
